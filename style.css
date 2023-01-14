@@ -68,9 +68,6 @@ p {
 }
 
 h3 {
-    padding-left: 25%;
-    padding-top: 50%;
-    padding-top: 15px;
     font-weight: lighter;
 }
 
@@ -161,6 +158,9 @@ h3 {
     top: 100px;
 }
 
+button{
+    margin-bottom: 10px;
+}
 
 
 td{
